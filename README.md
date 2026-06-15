@@ -1,31 +1,7 @@
-# PDF-Analyzer-using-RAG-LangChain-and-Gemini
-PDF Analyzer is an AI-powered application that enables users to upload PDF documents and ask natural language questions about their content. The application uses Retrieval-Augmented Generation (RAG) to generate accurate, context-aware responses grounded entirely in the uploaded document.
-The system combines LangChain, Google Gemini, HuggingFace Embeddings, Chroma Vector Database, and Streamlit to create an interactive PDF question-answering experience.
-##Features
-Upload and analyze PDF documents.
-Ask questions in natural language.
-Retrieve relevant information using semantic search.
-Generate context-grounded responses.
-Display retrieved source chunks.
-Persist embeddings locally using Chroma.
-Interactive user interface built with Streamlit.
---
-##Technology Stack
-| Component              | Technology                     |
-| ---------------------- | ------------------------------ |
-| Frontend               | Streamlit                      |
-| Document Loader        | LangChain PyPDFLoader          |
-| Text Splitting         | RecursiveCharacterTextSplitter |
-| Embeddings             | HuggingFace all-MiniLM-L6-v2   |
-| Vector Database        | Chroma                         |
-| Retrieval Framework    | LangChain RetrievalQA          |
-| Large Language Model   | Google Gemini 1.5 Flash        |
-| Environment Management | python-dotenv                  |
-| Programming Language   | Python                         |
-
 # PDF Analyzer — RAG + LangChain + Gemini
 
-An AI-powered application that lets you upload any PDF and ask natural language questions about its content. Built using Retrieval-Augmented Generation (RAG) with LangChain, HuggingFace Embeddings, Chroma Vector Database, and Google Gemini.
+PDF Analyzer is an AI-powered application that enables users to upload PDF documents and ask natural language questions about their content. The application uses Retrieval-Augmented Generation (RAG) to generate accurate, context-aware responses grounded entirely in the uploaded document.
+The system combines LangChain, Google Gemini, HuggingFace Embeddings, Chroma Vector Database, and Streamlit to create an interactive PDF question-answering experience.
 
 ---
 
@@ -221,9 +197,7 @@ Building this project involved solving real-world RAG problems:
 **Mohammed Mustakeem**  
 B.Tech — Artificial Intelligence & Machine Learning  
 University of Engineering and Management, Jaipur
-
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/mohammed-mustakeem-01229228b)
 
 ---
 
